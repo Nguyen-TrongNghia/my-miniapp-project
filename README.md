@@ -4,9 +4,9 @@
 Ứng dụng Mini App hỗ trợ quản lý bán hàng, theo dõi đơn hàng và sản phẩm được phát triển theo mô hình **Agile/Scrum**.
 
 ## 👥 Thành viên nhóm
-* [Tên thành viên 1] - Scrum Master / Developer
-* [Tên thành viên 2] - Product Owner / Developer
-* [Tên thành viên 3] - Developer
+* Huynh Dang Khoa - Scrum Master / Developer
+* Nguyen Chi Hoang - Product Owner / Developer
+* Ngo Nhut Nam - Developer
 
 ## 🚀 Công nghệ sử dụng
 * **Frontend:** ReactJS / JavaScript / HTML5 / CSS3
